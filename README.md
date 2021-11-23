@@ -1,4 +1,4 @@
 # About
-Repository for my GitHub page site
+Repository for my GitHub pages site
 AND
 how you can access my projects
